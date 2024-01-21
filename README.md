@@ -1,2 +1,2 @@
 # computing-technology-inquiry-project
-gaming website using php mySQL
+Gaming website using PHP + MySQL
